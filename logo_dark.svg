@@ -3,8 +3,8 @@
 <circle cx="60" cy="20" r="12.8" fill="white"/>
 <circle cx="60" cy="100" r="16" fill="white"/>
 <circle cx="60" cy="180" r="12.8" fill="white"/>
-<circle cx="40" cy="59.9999" r="16" fill="white"/>
-<circle cx="40" cy="140" r="16" fill="white"/>
+<circle cx="39.9999" cy="59.9999" r="16" fill="white"/>
+<circle cx="39.9999" cy="140" r="16" fill="white"/>
 <circle cx="100" cy="20" r="9.6" fill="white"/>
 <circle cx="100" cy="100" r="12.8" fill="white"/>
 <circle cx="100" cy="180" r="9.6" fill="white"/>
